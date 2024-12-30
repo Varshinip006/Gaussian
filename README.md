@@ -45,7 +45,7 @@ for i in range(n):
 ```
 
 ## Output:
-![exp 6 maths](https://github.com/user-attachments/assets/f9ad7b51-f2ae-43a4-b502-e7d7a8cee29e)
+![exp 6 maths](exp%206.maths.png)
 
 
 
